@@ -1,0 +1,4 @@
+http:://www.baidu.com	1	2	Get
+http:://www.sogou.com	1	2	Get
+http:://www.baidu.com	1	2	Get
+http:://www.baidu.com	1	2	Get
